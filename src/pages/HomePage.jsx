@@ -29,7 +29,7 @@ export default function HomePage() {
           <img
             src={publicLogoUrl}
             alt="Favicon from public folder"
-            className="img-small"
+            className="img-small img-public-logo"
           />
 
           <h3>3. External URL</h3>

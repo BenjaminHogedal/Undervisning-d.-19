@@ -77,6 +77,10 @@ main img {
   width: 100px;
 }
 
+.img-public-logo {
+  width: 85px;
+}
+
 .img-medium {
   width: 200px;
 }
